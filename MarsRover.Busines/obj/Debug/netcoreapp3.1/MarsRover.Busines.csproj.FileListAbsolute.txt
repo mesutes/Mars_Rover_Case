@@ -1,0 +1,12 @@
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\bin\Debug\netcoreapp3.1\MarsRover.Busines.deps.json
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\bin\Debug\netcoreapp3.1\MarsRover.Busines.dll
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\bin\Debug\netcoreapp3.1\MarsRover.Busines.pdb
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\bin\Debug\netcoreapp3.1\MarsRover.Core.dll
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\bin\Debug\netcoreapp3.1\MarsRover.Core.pdb
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.csprojAssemblyReference.cache
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.AssemblyInfoInputs.cache
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.AssemblyInfo.cs
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.csproj.CoreCompileInputs.cache
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.csproj.CopyComplete
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.dll
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Busines\obj\Debug\netcoreapp3.1\MarsRover.Busines.pdb

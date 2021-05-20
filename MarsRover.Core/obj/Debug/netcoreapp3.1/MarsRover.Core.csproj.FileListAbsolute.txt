@@ -1,0 +1,9 @@
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Core.deps.json
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Core.dll
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\bin\Debug\netcoreapp3.1\MarsRover.Core.pdb
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.csprojAssemblyReference.cache
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.AssemblyInfoInputs.cache
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.AssemblyInfo.cs
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.dll
+C:\Users\mes\Source\Repos\Mars_Rover_Case\MarsRover.Core\obj\Debug\netcoreapp3.1\MarsRover.Core.pdb
